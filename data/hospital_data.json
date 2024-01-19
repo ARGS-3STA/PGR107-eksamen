@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Levanger Hospital",
+    "major_location": "Levanger, Trøndelag county",
+    "campuses": ["Levanger"],
+    "founded_on": "1844"
+  },
+  {
+    "name": "Namsos Hospital",
+    "major_location": "Namsos, Trøndelag county",
+    "campuses": ["Namsos"],
+    "founded_on": "1848"
+  },
+  {
+    "name": "St. Olav's University Hospital",
+    "major_location": "Trondheim, Trøndelag county",
+    "campuses": ["Øya"],
+    "founded_on": "1902-06-18"
+  },
+  {
+    "name": "University Hospital of North Norway",
+    "major_location": "Tromsø, Troms og Finnmark county",
+    "campuses": ["Tromsøya", "Harstad", "Longyearbyen", "Narvik"],
+    "founded_on": "2001-12-18"
+  },
+  {
+    "name": "Akershus University Hospital",
+    "major_location": "Lørenskog, Viken county",
+    "campuses": ["Nordbyhagen"],
+    "founded_on": "1961-05-15"
+  },
+  {
+    "name": "Elverum Hospital",
+    "major_location": "Elverum, Innlandet county",
+    "campuses": ["Elverum"],
+    "founded_on": "1878"
+  },
+  {
+    "name": "Lillehammer Hospital",
+    "major_location": "Lillehammer, Innlandet county",
+    "campuses": ["Lillehammer"],
+    "founded_on": "1878"
+  },
+  {
+    "name": "Skien Hospital",
+    "major_location": "Skien, Vestfold og Telemark county",
+    "campuses": ["Skien"],
+    "founded_on": "2001"
+  },
+  {
+    "name": "Bærum Hospital",
+    "major_location": "Bærum, Viken county",
+    "campuses": ["Dønski"],
+    "founded_on": "1924-03-29"
+  },
+  {
+    "name": "Drammen Hospital",
+    "major_location": "Drammen, Viken county",
+    "campuses": ["Drammen"],
+    "founded_on": "1878"
+  },
+  {
+    "name": "Haukeland University Hospital",
+    "major_location": "Bergen, Vestland county",
+    "campuses": ["Haukeland"],
+    "founded_on": "1912"
+  },
+  {
+    "name": "Sandviken Hospital",
+    "major_location": "Bergen, Vestland county",
+    "campuses": ["Sandviken"],
+    "founded_on": "1891"
+  },
+  {
+    "name": "Østfold Hospital",
+    "major_location": "Sarpsborg, Viken county",
+    "campuses": ["Sarpsbord", "Moss", "Fredrikstad", "Halden"],
+    "founded_on": "2001-12-05"
+  },
+  {
+    "name": "Sørlandet Hospital",
+    "major_location": "Kristiansand, Agder county",
+    "campuses": ["Kristiansand", "Arendal", "Flekkefjord"],
+    "founded_on": "2001-12-13"
+  },
+  {
+    "name": "Førde Central Hospital",
+    "major_location": "Førde, Vestland county",
+    "campuses": ["Førde"],
+    "founded_on": "1979"
+  },
+  {
+    "name": "Stavanger University Hospital",
+    "major_location": "Stavanger, Rogaland county",
+    "campuses": ["Våland"],
+    "founded_on": "1844"
+  }
+]
